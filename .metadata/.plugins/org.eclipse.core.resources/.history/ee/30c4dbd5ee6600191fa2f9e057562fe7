@@ -1,0 +1,5 @@
+package webapp.springMVC;
+
+public class LoginController {
+
+}
